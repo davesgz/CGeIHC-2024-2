@@ -1,0 +1,1 @@
+Práctica 3: Modelado geométrico y cámara sintética.
